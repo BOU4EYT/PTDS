@@ -1,0 +1,1 @@
+This is a simple python top down shooter resembling the functionality and gameplay of call of duty zombies, however its modular system allows it to be used for just about anything within the 2d realm.
